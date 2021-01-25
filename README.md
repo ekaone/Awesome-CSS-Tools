@@ -10,3 +10,4 @@
 - [`CSS Animate` - Create CSS Animate with timeline](http://cssanimate.com/)
 - [`Keyframe` - Keyframes helps you write better CSS](https://keyframes.app/)
 - [`EnjoyCSS` - Advanced CSS Generator](https://enjoycss.com/)
+- [`Shape Generator` - CSS Shapes Generator](https://coveloping.com/tools/css-shapes-generator)
