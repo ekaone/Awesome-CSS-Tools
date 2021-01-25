@@ -1,6 +1,7 @@
 ## List CSS tools generator
 
 - [`CSS Gradient` - Create a gradient background for websites](https://cssgradient.io/)
+- [`Glassmorphism` - Glassmorphism CSS Generator](https://glassmorphism.com/)
 - [`CSS Button` - Create Button wih CSS](https://cssbuttoncreator.com/)
 - [`Neumorphism.io` - Generate Soft-UI CSS code](https://neumorphism.io/)
 - [`CSS Generator` - The Ultimate CSS Generator](https://webcode.tools/css-generator)
