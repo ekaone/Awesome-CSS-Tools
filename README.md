@@ -11,3 +11,8 @@
 - [`Keyframe` - Keyframes helps you write better CSS](https://keyframes.app/)
 - [`EnjoyCSS` - Advanced CSS Generator](https://enjoycss.com/)
 - [`Shape Generator` - CSS Shapes Generator](https://coveloping.com/tools/css-shapes-generator)
+- [`CSS layout` - Collection of popular layouts and patterns made with CSS](https://csslayout.io/)
+- [`CSS Scroll Shadows` - Adjust the control and see the CSS scroll shadows change](https://css-scroll-shadows.now.sh/)
+- [`Undesign` - Collection of free design tools and resources for makers, developers and designers](https://undesign.learn.uno/)
+- [`Smooth shadow generator` - Smooth shadow generator on Box Shadow](https://brumm.af/shadows)
+- [`Responsively` - Develop responsive web apps 5x faster](https://responsively.app/)
