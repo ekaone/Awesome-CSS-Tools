@@ -26,3 +26,4 @@
 - [`CSS Separator` - CSS Separator generator](https://wweb.dev/resources/css-separator-generator)
 - [`Blobmaker` - Blobmaker shape](https://www.blobmaker.app/)
 - [`Gradient buttons` - Gradient buttons](https://gradientbuttons.colorion.co/)
+- [`designtool.tools` - Free browser-based design tools: glassmorphism, box shadows, border radius, gradients, filters, color palettes](https://designtool.tools)
