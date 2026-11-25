@@ -22,6 +22,7 @@
 - [`Smooth shadow generator` - Smooth shadow generator on Box Shadow](https://brumm.af/shadows)
 - [`Responsively` - Develop responsive web apps 5x faster](https://responsively.app/)
 - [`ViewHTML` - Free online HTML/CSS preview and share (live render, PNG/PDF export)](https://viewhtml.app)
+- [`Kite` - Design UI visually (or with an AI agent) and copy any frame as HTML/CSS, React or Tailwind](https://kite.new/)
 - [`Get Waves` - Make some waves!](https://getwaves.io/)
 - [`CSS Separator` - CSS Separator generator](https://wweb.dev/resources/css-separator-generator)
 - [`Blobmaker` - Blobmaker shape](https://www.blobmaker.app/)
